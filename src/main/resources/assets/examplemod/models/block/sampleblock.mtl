@@ -1,0 +1,10 @@
+
+# 注：Forge 1.9-12.16.0.1853-1.9 時点での仕様
+# 対応キーワード：newmtl, d, Tr, Kd, map_Kd
+
+newmtl mat1
+Kd 1.00000 1.00000 1.00000
+
+# Diffuse map（いわゆるテクスチャ）。ResourceLocation形式で指定
+map_Kd examplemod:blocks/sampleblocktex
+

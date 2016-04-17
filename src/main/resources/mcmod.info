@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "ExampleMod",
+  "description": "Example of OBJ model block.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Iunius"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
